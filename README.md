@@ -11,13 +11,13 @@ The goal is to showcase how insurance companies can leverage data engineering an
 ---
 
 ## 📂 Repository Structure
-# DataEngineeringAndRiskAnalysis-ZopperAssignment/ │── data/                
-# Raw and processed datasets │── notebooks/           
-# SQL for analysis & modeling │── scripts/             
-# PowerBI & DAX for ETL and risk analysis │── results/             
-# Reports, charts, and visualizations │── requirements.txt     
-# Python dependencies │── README.md            
-# Project documentation
+- DataEngineeringAndRiskAnalysis-ZopperAssignment/ │── data/                
+- Raw and processed datasets │── notebooks/           
+- SQL for analysis & modeling │── scripts/             
+- PowerBI & DAX for ETL and risk analysis │── results/             
+- Reports, charts, and visualizations │── requirements.txt     
+- Python dependencies │── README.md            
+- Project documentation
 
 
 ---
@@ -33,7 +33,7 @@ The goal is to showcase how insurance companies can leverage data engineering an
 
 ## 📊 Data Source
 
- ## Usage
+## Usage
 # Follow these steps in sequence:
 -*Open the file **Zopper_Assignment_Intern_BI.pdf(FILE IN REPOSITORY)** to understand the project.*
 
