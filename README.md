@@ -37,23 +37,23 @@ The goal is to showcase how insurance companies can leverage data engineering an
 # Follow these steps in sequence:
 - *Open the file **Zopper_Assignment_Intern_BI.pdf(FILE IN REPOSITORY)** to understand the project.*
 
-- **Run Python Script**
+- **Run Python Script:**
 *Execute 🔗 [Insurance Sales & Claims Data Creation](https://www.kaggle.com/code/aadeshdixit11/insurance-sales-claims-data-creation) to generate synthetic insurance data.*
 
-- **Export Data as CSV**
+- **Export Data as CSV:**
 *Save the generated dataset from output of **kaggle notebook** section into csv file.*
 
-- **Load CSV into SQL**
+- **Load CSV into SQL:**
 *Create tables by using **Insurance_Data_Loading.sql(FILE IN REPOSITORY)** in your SQL database and Import the CSV file into the tables for structured storage by .*
 
-- **Perform SQL Analysis**
+- **Perform SQL Analysis:**
 *Run the queries by using **SQL_ANALYTICAL_QUERIES.sql(FILE IN REPOSITORY)** to perform analytical operations on claims and risk factors.*
 
-- **Run Power BI Dashboard**
+- **Run Power BI Dashboard:**
 *Open **InsuranceDashboard&DaxQueries.pbix(FILE IN REPOSITORY)** in Power BI Desktop.*
 *Use DAX measures and visualizations to dynamically explore risk analysis and business insights.*
 
-- **Check Case Study**
+- **Check Case Study:**
 *For analysis approach check **Analysis_of_Insurance_Sales_and_Claim.pdf(FILE IN REPOSITORY)**.*
 *For workflow approach check **Insurance_Project_Workflow.pdf(FILE IN REPOSITORY)**.*
 
