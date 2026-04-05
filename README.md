@@ -1,6 +1,6 @@
 # DataEngineeringAndRiskAnalysis-ZopperAssignment
 
-## 📌 Overview
+## Overview
 This project demonstrates **data engineering workflows and risk analysis techniques** applied to insurance sales and claims data. It covers the full lifecycle from **synthetic data creation** to **ETL pipelines**, **exploratory analysis**, and **risk modeling**.  
 
 The goal is to showcase how insurance companies can leverage data engineering and analytics to:
@@ -10,7 +10,7 @@ The goal is to showcase how insurance companies can leverage data engineering an
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 - DataEngineeringAndRiskAnalysis-ZopperAssignment/ │── data/                
 - Raw and processed datasets │── notebooks/           
 - SQL for analysis & modeling │── scripts/             
@@ -22,7 +22,7 @@ The goal is to showcase how insurance companies can leverage data engineering an
 
 ---
 
-## ⚙️ Features
+## Features
 - **Synthetic Insurance Data Creation** using Kaggle notebook  
 - **ETL Pipeline** for data ingestion, cleaning, and transformation  
 - **Risk Analysis Models** (statistical + ML-based approaches)  
@@ -31,14 +31,14 @@ The goal is to showcase how insurance companies can leverage data engineering an
 
 ---
 
-## 📊 Data Source
+## Data Source
 
 ## Usage
 # Follow these steps in sequence:
 - *Open the file **Zopper_Assignment_Intern_BI.pdf(FILE IN REPOSITORY)** to understand the project.*
 
 - **Run Python Script:**
-*Execute 🔗 [Insurance Sales & Claims Data Creation](https://www.kaggle.com/code/aadeshdixit11/insurance-sales-claims-data-creation) to generate synthetic insurance data.*
+*Execute [Insurance Sales & Claims Data Creation](https://www.kaggle.com/code/aadeshdixit11/insurance-sales-claims-data-creation) to generate synthetic insurance data.*
 
 - **Export Data as CSV:**
 *Save the generated dataset from output of **kaggle notebook** section into csv file.*
@@ -59,7 +59,7 @@ The goal is to showcase how insurance companies can leverage data engineering an
 
 ---
 
-## 🚀 Future Enhancements
+## Future Enhancements
 
 
 - Integration with real-world insurance datasets
@@ -69,7 +69,7 @@ The goal is to showcase how insurance companies can leverage data engineering an
 
 ---
 
-## 👨‍💻Author
+## Author
 ## Aadesh Dixit
 
 ---
